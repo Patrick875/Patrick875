@@ -1,6 +1,6 @@
 👋 Hi there, I'm Patrick
 
-I'm a passionate **Full-Stack Developer** currently working full-time as a **Frontend Developer**. I love building clean, scalable, and user-focused applications across the stack. Over the years, I’ve built a wide range of projects including **real-time dashboards**, **IoT-based systems**, **admin portals**, and **custom UI components**—always with a focus on practical impact and good developer experience.
+I'm a passionate **Full-Stack Developer** currently working full-time as a **Frontend Developer**. I love building clean, scalable, and user-focused applications across the stack. Over the years, I’ve built a wide range of projects including **real-time dashboards**, **IoT-based systems**, **admin portals**, and **custom UI components**.
 
 ## 🔧 Tech Stack
 
