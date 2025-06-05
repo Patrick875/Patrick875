@@ -1,3 +1,37 @@
+👋 Hi there, I'm Patrick
+
+I'm a passionate **Full-Stack Developer** currently working full-time as a **Frontend Developer**. I love building clean, scalable, and user-focused applications across the stack. Over the years, I’ve built a wide range of projects including **real-time dashboards**, **IoT-based systems**, **admin portals**, and **custom UI components**—always with a focus on practical impact and good developer experience.
+
+---
+
+## 🔧 Tech Stack
+
+### ⚙️ Languages & Tools
+- **JavaScript / TypeScript**
+- **React / Next.js (App Router)**
+- **Vue 3 / Ant Design Vue**
+- **Tailwind CSS / Framer Motion**
+- **Node.js / Express.js / Socket.IO**
+- **MongoDB / PostgreSQL / Sequelize**
+- **Zod / React Hook Form / TanStack Query / Zustand**
+- **C# / .NET (in progress)**
+
+
+---
+
+## 🚀 What I'm Working  i
+- 🛒 **Food Ordering Dashboard**: A web-first system (Next.js + .NET backend) that allows customers to order directly from IoT-embedded seats.
+- 🎟️ **Movie Ticket App** *(React Native)*: Learn-by-building project to support QR-based ticketing, add-ons, real-time ordering, and notifications.
+- ⚙️ **Express TypeScript Boilerplate**: Clean architecture setup with Sequelize, DTOs, and controllers—plus automation scripts for fast project spin-up.
+- 📡 **Smart Mining Jacket**: Safety-focused IoT wearable built during my undergrad, using sensors to protect miners in harsh environments.
+
+---
+
+
+## 📚 Currently Learning
+
+- 🧪 **C#  and .NET Core** for scalable backend services
+- 📱 **React Native** for seamless cross-platform mobile apps
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrickk875) 
